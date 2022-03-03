@@ -112,7 +112,7 @@
 		</track>
 		<track>
 			<location>https://stream.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8</location>
-			<title>ATV 1 órával késleltetett adás</title>
+			<title>ATV</title>
 			<image>http://coverartarchive.org/release/206f62bc-0e82-489c-89bd-2f8cb0f142b3/front-500</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>15</vlc:id>
