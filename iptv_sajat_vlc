@@ -4,7 +4,7 @@
 	<trackList>
 		<track>
 			<location>http://78.109.104.240:8000/play/a0bs/index.m3u8</location>
-			<title>M1</title>
+			<title>M1 HD</title>
 			<image>http://coverartarchive.org/release/206f62bc-0e82-489c-89bd-2f8cb0f142b3/front-500</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
@@ -12,7 +12,7 @@
 		</track>
 		<track>
 			<location>http://78.109.104.240:8000/play/a0bt/index.m3u8</location>
-			<title>M2</title>
+			<title>M2 / PETŐFI HD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
 			</extension>
@@ -40,21 +40,21 @@
 		</track>
 		<track>
 			<location>https://streamjump2.mediaworld.gq:443/hirtv/00gMyETM4UjM.m3u8</location>
-			<title>Hír TV</title>
+			<title>HIRTV</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>5</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://152.66.115.226:33391/bysid/103</location>
-			<title>Duna World</title>
+			<title>DUNA WORLD HD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>6</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://152.66.115.226:33390/bysid/202</location>
-			<title>TV2</title>
+			<title>TV2 HD</title>
 			<image>http://coverartarchive.org/release/19eb5af9-a13c-47c0-90e4-f1ba71f140f2/front-500</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>7</vlc:id>
@@ -62,21 +62,21 @@
 		</track>
 		<track>
 			<location>https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8</location>
-			<title>RTLKlub</title>
+			<title>RTL KLUB HD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>8</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://stream.y5.hu:443/stream/stream_rtl2/hls1/stream.m3u8</location>
-			<title>RTL2</title>
+			<title>RTL 2 HD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>9</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8</location>
-			<title>Cool</title>
+			<title>COOL HD</title>
 			<image>http://coverartarchive.org/release/336023b1-891b-4f0b-ab75-4f20d44e7a53/front-500</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>10</vlc:id>
@@ -84,7 +84,7 @@
 		</track>
 		<track>
 			<location>https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8</location>
-			<title>RTL Gold</title>
+			<title>RTL GOLD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>11</vlc:id>
 			</extension>
@@ -98,21 +98,21 @@
 		</track>
 		<track>
 			<location>https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8</location>
-			<title>Film+</title>
+			<title>FILM+ HD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>13</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8</location>
-			<title>Sorozat+</title>
+			<title>SOROZAT +</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>14</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://stream.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8</location>
-			<title>ATV</title>
+			<title>ATV HD</title>
 			<image>http://coverartarchive.org/release/206f62bc-0e82-489c-89bd-2f8cb0f142b3/front-500</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>15</vlc:id>
@@ -120,7 +120,7 @@
 		</track>
 		<track>
 			<location>http://78.109.104.240:8000/play/a0bv/index.m3u8</location>
-			<title>Paprika TV</title>
+			<title>TV PAPRIKA</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>16</vlc:id>
 			</extension>
@@ -141,7 +141,7 @@
 		</track>
 		<track>
 			<location>https://fixhd.tv:8082/fix/1080i/playlist.m3u8</location>
-			<title>Fix TV</title>
+			<title>FIX</title>
 			<image>http://coverartarchive.org/release/19eb5af9-a13c-47c0-90e4-f1ba71f140f2/front-500</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>19</vlc:id>
@@ -149,14 +149,14 @@
 		</track>
 		<track>
 			<location>http://78.109.104.240:8000/play/a0ct/index.m3u8</location>
-			<title>AMC</title>
+			<title>AMC HD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>20</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://78.109.104.240:8000/play/a0d8/index.m3u8</location>
-			<title>HBO</title>
+			<title>HBO HD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>21</vlc:id>
 			</extension>
@@ -192,7 +192,7 @@
 		</track>
 		<track>
 			<location>http://78.109.104.240:8000/play/a0cs/index.m3u8</location>
-			<title>National Geographic</title>
+			<title>National Geographic HD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>26</vlc:id>
 			</extension>
@@ -235,7 +235,7 @@
 		</track>
 		<track>
 			<location>http://78.109.104.240:8000/play/a0cz/index.m3u8</location>
-			<title>Extreme Sports Channel</title>
+			<title>Extreme Sports</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>32</vlc:id>
 			</extension>
@@ -257,7 +257,7 @@
 		</track>
 		<track>
 			<location>https://stream.y5.hu:443/stream/stream_muzsikatv/stream.m3u8</location>
-			<title>MuzsikaTV</title>
+			<title>Muzsika TV</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>35</vlc:id>
 			</extension>
@@ -278,7 +278,7 @@
 		</track>
 		<track>
 			<location>http://hatoscsatorna.hu:8081/Hatoscsatorna/livestream/playlist.m3u8</location>
-			<title>Hatos Csatorna</title>
+			<title>HatosCsatorna</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>38</vlc:id>
 			</extension>
@@ -313,7 +313,7 @@
 		</track>
 		<track>
 			<location>https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8</location>
-			<title>CNN International Europe (720p)</title>
+			<title>CNN International(720p)</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>43</vlc:id>
 			</extension>
@@ -341,7 +341,7 @@
 		</track>
 		<track>
 			<location>http://hitmusic.hu/hitmusic.m3u8</location>
-			<title>H!T Music Channel (480p)</title>
+			<title>H!T Music Channel(480p)</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>47</vlc:id>
 			</extension>
