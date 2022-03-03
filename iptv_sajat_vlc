@@ -18,7 +18,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://streamjump2.mediaworld.gq:443/m3/00gMyETM4UjM.m3u8</location>
+			<location>https://player.mediaklikk.gq:443/m3/00gMyEjM0EzM.m3u8</location>
 			<title>M3</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>2</vlc:id>
