@@ -18,13 +18,6 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://player.mediaklikk.gq:443/m3/00gMyEjM0EzM.m3u8</location>
-			<title>M3</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>2</vlc:id>
-			</extension>
-		</track>
-		<track>
 			<location>http://78.109.104.240:8000/play/a0ao/index.m3u8</location>
 			<title>M4 SPORT HD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
