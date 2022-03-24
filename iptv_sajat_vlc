@@ -199,6 +199,41 @@
 			</extension>
 		</track>
 		<track>
+			<location>http://79.114.4.250:8000/play/a037</location>
+			<title>CBS Reality</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://79.114.4.250:8000/play/a02r</location>
+			<title>AXN White</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://79.114.4.250:8000/play/a02b</location>
+			<title>AXN Black</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://149.62.183.210:8000/play/a066/index.m3u8</location>
+			<title>FilmBox Family</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://152.66.115.226:33390/bysid/205</location>
+			<title>DIKH TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
 			<location>http://78.109.104.240:8000/play/a0d0/index.m3u8</location>
 			<title>Disney Channel</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
