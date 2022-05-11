@@ -11,7 +11,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://streaming.mytvback.com:443/stream/rSqsg-J2YnaD7RL9mjVgSQ/1651890842/channel002/stream.m3u8</location>
+			<location>https://streaming.mytvback.com:443/stream/Fgv7NaTAzJK-8Ur98Npr5A/1652322884/channel002/stream.m3u8</location>
 			<title>M2 / PETŐFI HD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
