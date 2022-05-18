@@ -3,7 +3,7 @@
 	<title>Lejátszólista</title>
 	<trackList>
 		<track>
-			<location>http://152.66.115.226:33391/bysid/100</location>
+			<location>http://152.66.115.226:33390/bysid/100</location>
 			<title>M1 HD</title>
 			<image>http://152.66.115.226:33391/bysid/100</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
