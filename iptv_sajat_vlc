@@ -32,8 +32,8 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://streamjump2.mediaworld.gq:443/hirtv/00gMyETM4UjM.m3u8</location>
-			<title>HIRTV</title>
+			<location>http://5.38.198.105:8001/play/viasathistory</location>
+			<title>VIASAT HISTORY</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>5</vlc:id>
 			</extension>
@@ -53,7 +53,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://streaming.mytvback.com:443/stream/ma2xF_o-D-kn5FofhFuqlQ/1651890873/channel043/stream.m3u8</location>
+			<location>http://5.38.198.105:8001/play/a04c</location>
 			<title>LIFE TV</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>9</vlc:id>
@@ -133,8 +133,8 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://78.109.104.240:8000/play/a0bv/index.m3u8</location>
-			<title>TV PAPRIKA</title>
+			<location>http://5.38.198.105:8001/play/jocky</location>
+			<title>JOCKY TV</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>20</vlc:id>
 			</extension>
@@ -154,43 +154,42 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://fixhd.tv:8082/fix/1080i/playlist.m3u8</location>
-			<title>FIX</title>
-			<image>http://coverartarchive.org/release/19eb5af9-a13c-47c0-90e4-f1ba71f140f2/front-500</image>
+			<location>http://5.38.198.105:8001/play/a04e</location>
+			<title>MOZI+</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>23</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://78.109.104.240:8000/play/a0ct/index.m3u8</location>
+			<location>http://5.38.198.105:8001/play/amc</location>
 			<title>AMC HD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>24</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://78.109.104.240:8000/play/a0d8/index.m3u8</location>
+			<location>http://5.38.198.105:8001/play/hbohd</location>
 			<title>HBO HD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>25</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://78.109.104.240:8000/play/a0d2/index.m3u8</location>
+			<location>http://5.38.198.105:8001/play/hbo2hd</location>
 			<title>HBO2</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>26</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://78.109.104.240:8000/play/a0dc/index.m3u8</location>
+			<location>http://5.38.198.105:8001/play/hbo3hd</location>
 			<title>HBO3</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>27</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://78.109.104.240:8000/play/a0cw/index.m3u8</location>
+			<location>http://5.38.198.105:8001/play/tv4</location>
 			<title>TV4</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>28</vlc:id>
@@ -205,14 +204,14 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://78.109.104.240:8000/play/a0cs/index.m3u8</location>
+			<location>http://5.38.198.105:8001/play/a04b</location>
 			<title>National Geographic HD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>30</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://78.109.104.240:8000/play/a0d6/index.m3u8</location>
+			<location>http://5.38.198.105:8001/play/a01j</location>
 			<title>National Geographic Wild</title>
 			<image>http://coverartarchive.org/release/19eb5af9-a13c-47c0-90e4-f1ba71f140f2/front-500</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -220,29 +219,29 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://79.114.4.250:8000/play/a037</location>
-			<title>CBS Reality</title>
+			<location>http://5.38.198.105:8001/play/a04f</location>
+			<title>SPEKTRUM</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>32</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://79.114.4.250:8000/play/a02r</location>
-			<title>AXN White</title>
+			<location>http://5.38.198.105:8001/play/a04i</location>
+			<title>ARENA4</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>33</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://79.114.4.250:8000/play/a02b</location>
-			<title>AXN Black</title>
+			<location>http://5.38.198.105:8001/play/a046</location>
+			<title>Prime</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>34</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://149.62.183.210:8000/play/a066/index.m3u8</location>
-			<title>FilmBox Family</title>
+			<location>http://5.38.198.105:8001/play/mverzumhd</location>
+			<title>MOZIVERZUM</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>35</vlc:id>
 			</extension>
@@ -255,58 +254,58 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://78.109.104.240:8000/play/a0d0/index.m3u8</location>
-			<title>Disney Channel</title>
+			<location>http://5.38.198.105:8001/play/a02z</location>
+			<title>TLC</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>37</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://78.109.104.240:8000/play/a0cr/index.m3u8</location>
-			<title>TV2 Séf</title>
+			<location>http://5.38.198.105:8001/play/a044</location>
+			<title>VIASAT3</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>38</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://78.109.104.240:8000/play/a0cq/index.m3u8</location>
-			<title>Cartoon Network</title>
+			<location>http://92.240.234.211:4522/</location>
+			<title>VIASAT NATURE</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>39</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://78.109.104.240:8000/play/a0d5/index.m3u8</location>
-			<title>Boomerang</title>
+			<location>http://80.96.25.163:7878/play/a03u/index.m3u8</location>
+			<title>AXN WHITE</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>40</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://78.109.104.240:8000/play/a0cz/index.m3u8</location>
-			<title>Extreme Sports</title>
+			<location>http://80.96.25.163:7878/play/a07d/index.m3u8</location>
+			<title>AXN BLACK</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>41</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>https://stream.y5.hu:443/stream/stream_bonum/stream.m3u8</location>
-			<title>EWTN</title>
+			<location>http://5.38.198.105:8001/play/a043</location>
+			<title>AXN</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>42</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://45.14.11.3:8000/udp/238.42.0.1:1234</location>
-			<title>Balaton TV</title>
+			<location>http://5.38.198.105:8001/play/disco</location>
+			<title>DISCOVERY CHANNEL</title>
 			<image>http://coverartarchive.org/release/19eb5af9-a13c-47c0-90e4-f1ba71f140f2/front-500</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>43</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>https://stream.y5.hu:443/stream/stream_muzsikatv/stream.m3u8</location>
-			<title>Muzsika TV</title>
+			<location>http://5.38.198.105:8001/play/a04t</location>
+			<title>VIASAT6</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>44</vlc:id>
 			</extension>
